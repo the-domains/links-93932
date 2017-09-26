@@ -1,0 +1,24 @@
+layout_spectrum: 0.4800560528755483
+typography_spectrum: 0.08967446024907698
+color:
+  brandStrength: 0.7390537018345503
+  lightness: 0.8210666283041165
+  saturation: 0.4120559117760472
+  rhythmicContrast: 0.6309462958372355
+  brandColors:
+    - '#F4F2ED'
+    - '#FBF9F1'
+    - '#FDFDF9'
+    - '#F0ECE8'
+    - '#FFFFFF'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: mocha
+content: []
+url: 'https://thegrid.ai/mocha'
+github: true
